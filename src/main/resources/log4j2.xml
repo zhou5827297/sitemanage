@@ -15,7 +15,7 @@
             <AppenderRef ref="RollingFile"/>
             <AppenderRef ref="Console"/>
         </Logger>
-        <logger name="com.dangmeitoutiao" level="${log4j.level}" additivity="false">
+        <logger name="com.zhoukai" level="${log4j.level}" additivity="false">
             <AppenderRef ref="RollingFile"/>
             <AppenderRef ref="Console"/>
         </logger>
