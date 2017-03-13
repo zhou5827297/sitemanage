@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <mainClass>com.dangmeitoutiao.manage.Main</mainClass>
+        <mainClass>com.zhoukai.manage.Main</mainClass>
     </properties>
 
     <profiles>

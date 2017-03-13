@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 
-import com.dangmeitoutiao.manage.util.FileUtil;
+import com.zhoukai.manage.util.FileUtil;
 import org.apache.zookeeper.CreateMode;
 import org.apache.zookeeper.KeeperException;
 import org.apache.zookeeper.WatchedEvent;
